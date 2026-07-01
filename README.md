@@ -80,8 +80,4 @@
 
 <a href="https://www.youtube.com/@kotkrinik"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MikalaiKryvusha&show_icons=true&hide_border=true" alt="GitHub stats" />
-</p>
-
 <p align="center"><i>«Точность — в математике, смысл — в людях.»</i></p>
