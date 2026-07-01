@@ -29,8 +29,10 @@
 
 - 🌍 Сайт проекта: **[ndim-space.web.app](https://ndim-space.web.app)**
 - ✍️ Стихи: **[stihi.ru/avtor/krinik](https://stihi.ru/avtor/krinik)**
-- ▶️ YouTube: <!-- вставь ссылку на канал -->
-- 📸 Instagram: <!-- вставь ссылку на профиль -->
+- ▶️ YouTube: **[@kotkrinik](https://www.youtube.com/@kotkrinik)**
+- 📸 Instagram: **[@kotkrinik](https://www.instagram.com/kotkrinik/)**
+- ✈️ Telegram: **[@kotkrinik](https://t.me/kotkrinik)**
+- ☕ Buy Me a Coffee: **[krinik](https://buymeacoffee.com/krinik)**
 
 ---
 
