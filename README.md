@@ -1,6 +1,6 @@
 <h1 align="center">Привет, я Николай Кривуша 👋</h1>
 <p align="center">
-  <b>Mikalai Kryvusha</b> — Minsk, Belarus 🇧🇾<br>
+  <b>Mikalai Kryvusha</b> — Minsk, Belarus<br>
   Founder of <a href="https://ndim-space.web.app">NDim Space</a> · ISTQB QA Engineer (6+ лет)<br>
   <i>Инженер · Философ · Автор · Лучник · Сторонник здорового образа жизни</i>
 </p>
