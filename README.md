@@ -8,7 +8,7 @@
 <p align="center">
   <b>Mikalai Kryvusha</b> — Minsk, Belarus<br>
   Founder of <a href="https://ndim-space.web.app">NDim Space</a> · ISTQB QA Engineer (6+ years)<br>
-  <i>Engineer · Philosopher · Author · Archer · Healthy Lifestyle Activist</i>
+  <i>Engineer · DIY Hobbyist Enthusiast · Philosopher · Author · Archer · Healthy Lifestyle Activist</i>
 </p>
 
 ### 🚀 About me
@@ -16,9 +16,9 @@
 - 🧩 Founded **[NDim Space](https://ndim-space.web.app)** — a service for meeting and finding people similar to you all over the world with mathematical precision.
 - 🧪 6+ years in QA (ISTQB).
 - 🕹️ I design games — for example, **Shootout**.
-- 🛠️ I build hardware & software: a camera streaming app and a laser timer for races.
+- 🛠️ DIY hobbyist & enthusiast: I build hardware and software — a camera streaming app, a laser timer for races — and I'm into 3D printing.
 - ✍️ I write poetry and texts, reflecting on life and technology.
-- 🏹 Archery. Healthy Lifestyle Activist.
+- 🏹 Archery and sports. Healthy Lifestyle Activist.
 
 ### 🌐 Where to find me
 
@@ -36,7 +36,7 @@
 <p align="center">
   <b>Николай Кривуша</b> — Минск, Беларусь<br>
   Основал <a href="https://ndim-space.web.app">NDim Space</a> · ISTQB QA Engineer (6+ лет)<br>
-  <i>Инженер · Философ · Автор · Лучник · Активист здорового образа жизни</i>
+  <i>Инженер · DIY-энтузиаст · Философ · Автор · Лучник · Активист здорового образа жизни</i>
 </p>
 
 ### 🚀 О себе
@@ -44,9 +44,9 @@
 - 🧩 Основал **[NDim Space](https://ndim-space.web.app)** — сервис знакомств и поиска похожих людей по всему миру с математической точностью.
 - 🧪 6+ лет QA (ISTQB).
 - 🕹️ Придумываю игры — например, **Перестрелку**.
-- 🛠️ Мастерю железо и софт: приложение для стриминга с камеры и лазерный таймер для гонок.
+- 🛠️ DIY-энтузиаст: мастерю железо и софт — приложение для стриминга с камеры, лазерный таймер для гонок — и увлекаюсь 3D-печатью.
 - ✍️ Пишу стихи и тексты, размышляю о жизни и технологиях.
-- 🏹 Стреляю из лука. Хелти Лайфстал Активист.
+- 🏹 Стреляю из лука, занимаюсь спортом. Хелти Лайфстал Активист.
 
 ### 🌐 Где меня найти
 
@@ -65,8 +65,20 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![3D Printing](https://img.shields.io/badge/3D%20Printing-FF6E00?style=flat&logo=prusa&logoColor=white)
+![Vibecoder](https://img.shields.io/badge/Vibecoder-FF4088?style=flat&logo=anthropic&logoColor=white)
+
+### 🌱 Interests · Увлечения
+
+![Philosophy](https://img.shields.io/badge/Philosophy-5D3FD3?style=flat)
+![Poetry](https://img.shields.io/badge/Poetry-C71585?style=flat)
+![Archery](https://img.shields.io/badge/Archery-2E8B57?style=flat)
+![Sports](https://img.shields.io/badge/Sports-FF8C00?style=flat)
+![DIY](https://img.shields.io/badge/DIY-795548?style=flat)
+![Healthy Lifestyle](https://img.shields.io/badge/Healthy%20Lifestyle-00A86B?style=flat)
+![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=flat)
+
+<a href="https://www.youtube.com/@kotkrinik"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MikalaiKryvusha&show_icons=true&hide_border=true" alt="GitHub stats" />
