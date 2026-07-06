@@ -29,7 +29,7 @@
 - ✈️ Telegram: **[@kotkrinik](https://t.me/kotkrinik)**
 - ☕ Buy Me a Coffee: **[krinik](https://buymeacoffee.com/krinik)**
 
-### 📜 Motto
+### <p align="center">📜 Motto</p>
 <p align="center"><i>«Love, gratitude, faith, will, respect, contentment, honesty, precision, hope, mercy, ruthlessness.»</i></p>
 
 ---
@@ -60,7 +60,7 @@
 - ✈️ Telegram: **[@kotkrinik](https://t.me/kotkrinik)**
 - ☕ Buy Me a Coffee: **[krinik](https://buymeacoffee.com/krinik)**
 
-### 📜 Девиз
+### <p align="center">📜 Девиз</p>
 <p align="center"><i>«Любовь, благодарность, вера, воля, уважение, удовлетворённость, честность, точность, надежда, милосердие, безжалостность.»</i></p>
 
 ---
