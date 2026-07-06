@@ -29,6 +29,9 @@
 - ✈️ Telegram: **[@kotkrinik](https://t.me/kotkrinik)**
 - ☕ Buy Me a Coffee: **[krinik](https://buymeacoffee.com/krinik)**
 
+### 📜 Motto
+<p align="center"><i>«Love, gratitude, faith, will, respect, contentment, honesty, precision, hope, mercy, ruthlessness.»</i></p>
+
 ---
 
 ## Русский
@@ -57,6 +60,9 @@
 - ✈️ Telegram: **[@kotkrinik](https://t.me/kotkrinik)**
 - ☕ Buy Me a Coffee: **[krinik](https://buymeacoffee.com/krinik)**
 
+### 📜 Девиз
+<p align="center"><i>«Любовь, благодарность, вера, воля, уважение, удовлетворённость, честность, точность, надежда, милосердие, безжалостность.»</i></p>
+
 ---
 
 ### 🧰 Stack & tools
@@ -79,5 +85,3 @@
 ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=flat)
 
 <a href="https://www.youtube.com/@kotkrinik"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
-
-<p align="center"><i>«Точность — в математике, смысл — в людях.»</i></p>
