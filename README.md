@@ -16,7 +16,7 @@
 - 🧩 Founded **[NDim Space](https://ndim-space.web.app)** — a service for meeting and finding people similar to you all over the world with mathematical precision.
 - 🧪 6+ years in QA (ISTQB).
 - 🕹️ I design games — for example, **Shootout**.
-- 🛠️ DIY hobbyist & enthusiast: I build hardware and software — a camera streaming app, a laser timer for races — and I'm into 3D printing.
+- 🛠️ I’m a DIY hobbyist & enthusiast who builds both hardware and software—including an OBS-like streaming Android app, a dating site, an AI agent framework, and a local AI ecosystem on my personal gaming PC. I am into 3D printing and 3D modeling.
 - ✍️ I write poetry and texts, reflecting on life and technology.
 - 🏹 Archery and sports. Healthy Lifestyle Activist.
 
@@ -47,7 +47,7 @@
 - 🧩 Основал **[NDim Space](https://ndim-space.web.app)** — сервис знакомств и поиска похожих людей по всему миру с математической точностью.
 - 🧪 6+ лет QA (ISTQB).
 - 🕹️ Придумываю игры — например, **Перестрелку**.
-- 🛠️ DIY-энтузиаст: мастерю железо и софт — приложение для стриминга с камеры, лазерный таймер для гонок — и увлекаюсь 3D-печатью.
+- 🛠️ DIY-энтузиаст: мастерю железо и софт — OBS-подобное Android приложение для стриминга, сайт знакомств, фреймворк работы с ИИ агентами, локальную ИИ экосистему на личном геймерском ПК. Увлекаюсь 3D-печатью и 3D-моделированием.
 - ✍️ Пишу стихи и тексты, размышляю о жизни и технологиях.
 - 🏹 Стреляю из лука, занимаюсь спортом. Хелти Лайфстал Активист.
 
