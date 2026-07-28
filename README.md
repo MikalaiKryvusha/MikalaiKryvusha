@@ -32,7 +32,7 @@
 
 ### 🌐 Where to find me
 
-- 🌍 NDim Space: **[ndim-space.web.app](https://ndim-space.web.app)**
+- 🌍 NDim Space 2.0: **[ndimspace.app](https://ndimspace.app)**
 - ✍️ Poetry: **[stihi.ru/avtor/krinik](https://stihi.ru/avtor/krinik)**
 - ▶️ YouTube: **[@kotkrinik](https://www.youtube.com/@kotkrinik)**
 - 📸 Instagram: **[@kotkrinik](https://www.instagram.com/kotkrinik/)**
@@ -73,7 +73,7 @@
 
 ### 🌐 Где меня найти
 
-- 🌍 NDim Space: **[ndim-space.web.app](https://ndim-space.web.app)**
+- 🌍 NDim Space 2.0: **[ndimspace.app](https://ndimspace.app)**
 - ✍️ Стихи: **[stihi.ru/avtor/krinik](https://stihi.ru/avtor/krinik)**
 - ▶️ YouTube: **[@kotkrinik](https://www.youtube.com/@kotkrinik)**
 - 📸 Instagram: **[@kotkrinik](https://www.instagram.com/kotkrinik/)**
