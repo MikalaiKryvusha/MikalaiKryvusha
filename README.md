@@ -11,6 +11,16 @@
   <i>Engineer · DIY Hobbyist Enthusiast · Philosopher · Author · Archer · Healthy Lifestyle Activist</i>
 </p>
 
+### 🏆 Projects I'm proud of
+
+- **[KAIF](https://github.com/MikalaiKryvusha/KAIF)** — Krinik AI Framework: a self-extracting methodology that turns any coding AI agent into a disciplined, autonomous, context-resilient teammate.
+- **[NDim Space](https://github.com/MikalaiKryvusha/ndim)** — honest people matching by mathematical similarity in a multidimensional space of self-assessments.
+- **[KrinikCam](https://github.com/MikalaiKryvusha/KrinikCam)** — a mobile OBS alternative for multi-streaming to YouTube, Instagram and more: layers, multiple sources, built-in or external cameras.
+- **[KLAS](https://github.com/MikalaiKryvusha/KLAS)** — Krinik Local Agent System: a self-hosted AI ecosystem powered by local LLMs on a gaming GPU — autonomous agents plus a web dashboard.
+- **[KPOT](https://github.com/MikalaiKryvusha/KPOT)** — Krinik Photo Organizer Tool: chaos in, chronology out — a safety-first CLI that sorts a messy photo/video archive into a year/season library.
+- **[Shootout](https://github.com/MikalaiKryvusha/shootout)** — a tactical, turn-based tabletop RPG about Mexican standoffs, with d100 probability mechanics.
+- 🎲 **Secret project** — a tabletop game inspired by Oblivion and D&D; in development, under wraps for now.
+
 ### 🚀 About me
 
 - 🧩 Founded **[NDim Space](https://ndim-space.web.app)** — a service for meeting and finding people similar to you all over the world with mathematical precision.
@@ -41,6 +51,16 @@
   Основал <a href="https://ndim-space.web.app">NDim Space</a> · ISTQB QA Engineer (6+ лет)<br>
   <i>Инженер · DIY-энтузиаст · Философ · Автор · Лучник · Активист здорового образа жизни</i>
 </p>
+
+### 🏆 Проекты, которыми горжусь
+
+- **[KAIF](https://github.com/MikalaiKryvusha/KAIF)** — Krinik AI Framework: самораспаковывающаяся методология, превращающая любого ИИ-агента для кодинга в дисциплинированного, автономного, устойчивого к потере контекста напарника.
+- **[NDim Space](https://github.com/MikalaiKryvusha/ndim)** — честный подбор похожих людей по математической близости в многомерном пространстве самооценок.
+- **[KrinikCam](https://github.com/MikalaiKryvusha/KrinikCam)** — мобильная альтернатива OBS для мультистриминга на YouTube, Instagram и другие площадки: слои, несколько источников, встроенные и внешние камеры.
+- **[KLAS](https://github.com/MikalaiKryvusha/KLAS)** — Krinik Local Agent System: самохостящаяся ИИ-экосистема на локальных LLM и игровой видеокарте — автономные агенты и веб-дашборд.
+- **[KPOT](https://github.com/MikalaiKryvusha/KPOT)** — Krinik Photo Organizer Tool: на входе хаос, на выходе хронология — бережный CLI, раскладывающий фотовидеоархив в библиотеку по годам и сезонам.
+- **[Перестрелка (Shootout)](https://github.com/MikalaiKryvusha/shootout)** — тактическая пошаговая настольная RPG про мексиканские дуэли с вероятностной механикой d100.
+- 🎲 **Секретный проект** — настольная игра по мотивам Oblivion и D&D; в разработке, пока держится в тайне.
 
 ### 🚀 О себе
 
