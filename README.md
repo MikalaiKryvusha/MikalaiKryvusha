@@ -17,6 +17,7 @@
 - **[NDim Space](https://github.com/MikalaiKryvusha/ndim)** — honest people matching by mathematical similarity in a multidimensional space of self-assessments.
 - **[KrinikCam](https://github.com/MikalaiKryvusha/KrinikCam)** — a mobile OBS alternative for multi-streaming to YouTube, Instagram and more: layers, multiple sources, built-in or external cameras.
 - **[KLAS](https://github.com/MikalaiKryvusha/KLAS)** — Krinik Local Agent System: a self-hosted AI ecosystem powered by local LLMs on a gaming GPU — autonomous agents plus a web dashboard.
+- **[KAGO](https://github.com/MikalaiKryvusha/KAGO)** — Krinik Automated GPU Orchestrator: automated NVIDIA GPU undervolting on Windows — quieter and cooler, with a measured safety margin and no third-party GUI.
 - **[KPOT](https://github.com/MikalaiKryvusha/KPOT)** — Krinik Photo Organizer Tool: chaos in, chronology out — a safety-first CLI that sorts a messy photo/video archive into a year/season library.
 - **[Shootout](https://github.com/MikalaiKryvusha/shootout)** — a tactical, turn-based tabletop RPG about Mexican standoffs, with d100 probability mechanics.
 - 🎲 **Secret project** — a tabletop game inspired by Oblivion and D&D; in development, under wraps for now.
@@ -58,6 +59,7 @@
 - **[NDim Space](https://github.com/MikalaiKryvusha/ndim)** — честный подбор похожих людей по математической близости в многомерном пространстве самооценок.
 - **[KrinikCam](https://github.com/MikalaiKryvusha/KrinikCam)** — мобильная альтернатива OBS для мультистриминга на YouTube, Instagram и другие площадки: слои, несколько источников, встроенные и внешние камеры.
 - **[KLAS](https://github.com/MikalaiKryvusha/KLAS)** — Krinik Local Agent System: самохостящаяся ИИ-экосистема на локальных LLM и игровой видеокарте — автономные агенты и веб-дашборд.
+- **[KAGO](https://github.com/MikalaiKryvusha/KAGO)** — Криника Автоматизированный ГПУ Оркестратор: автоматический андервольтинг видеокарты NVIDIA под Windows — тише и холоднее, с измеренным запасом надёжности и без единого стороннего GUI.
 - **[KPOT](https://github.com/MikalaiKryvusha/KPOT)** — Krinik Photo Organizer Tool: на входе хаос, на выходе хронология — бережный CLI, раскладывающий фотовидеоархив в библиотеку по годам и сезонам.
 - **[Перестрелка (Shootout)](https://github.com/MikalaiKryvusha/shootout)** — тактическая пошаговая настольная RPG про мексиканские дуэли с вероятностной механикой d100.
 - 🎲 **Секретный проект** — настольная игра по мотивам Oblivion и D&D; в разработке, пока держится в тайне.
