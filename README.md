@@ -14,10 +14,16 @@
 ### 🏆 Projects I'm proud of
 
 - **[KAIF](https://github.com/MikalaiKryvusha/KAIF)** — Krinik AI Framework: a self-extracting methodology that turns any coding AI agent into a disciplined, autonomous, context-resilient teammate.
+- **[KUMM](https://github.com/MikalaiKryvusha/kumm)** — Krinik Universal Mod Manager: Nexus Mods from the command line through Chrome DevTools Protocol; works on free accounts.
+- **[KARTUN](https://github.com/MikalaiKryvusha/KARTUN)** — Krinik Android Restoration Tool for Upscaling with Neural Networks: makes a small or blurry photo big and sharp right on an Android phone, offline — the world's first DAT2 transformer on ncnn, running on the phone's GPU through Vulkan.
+- **[KUIPS](https://github.com/MikalaiKryvusha/KUIPS)** — Krinik User Interface Prototyping System: a local Figma-like sheet where AI agents lay out app screens and the wiring between them; CLI, API, MCP.
+- **[Krinik Tribit](https://github.com/MikalaiKryvusha/KrinikTribitApp)** — the Tribit speaker app, fixed: no crashes, no location, tablets and big screens, proper translations in many languages.
+- **[KAST](https://github.com/MikalaiKryvusha/KAST)** — KRINIK Artemis Streaming Tool: an Artemis (Moonlight for Android) fork for Apollo/Vibepollo that survives a temporary network loss instead of dropping the session.
+- **[KARMA](https://github.com/MikalaiKryvusha/KARMA)** — Krinik's KARMA: a psychological model for game AI agents.
 - **[NDim Space](https://github.com/MikalaiKryvusha/ndim)** — honest people matching by mathematical similarity in a multidimensional space of self-assessments.
 - **[KrinikCam](https://github.com/MikalaiKryvusha/KrinikCam)** — a mobile OBS alternative for multi-streaming to YouTube, Instagram and more: layers, multiple sources, built-in or external cameras.
 - **[KLAS](https://github.com/MikalaiKryvusha/KLAS)** — Krinik Local Agent System: a self-hosted AI ecosystem powered by local LLMs on a gaming GPU — autonomous agents plus a web dashboard.
-- **[KAGO](https://github.com/MikalaiKryvusha/KAGO)** — Krinik Automated GPU Orchestrator: automated NVIDIA GPU undervolting on Windows — quieter and cooler, with a measured safety margin and no third-party GUI.
+- **[KAGO](https://github.com/MikalaiKryvusha/KAGO)** — Krinik Automated GPU Orchestrator: automated NVIDIA GPU undervolting on Windows — four tested modes on desktop shortcuts: +9 % frames at full power, or +2 % frames at 50 W less, quieter and cooler; no third-party GUI.
 - **[KPOT](https://github.com/MikalaiKryvusha/KPOT)** — Krinik Photo Organizer Tool: chaos in, chronology out — a safety-first CLI that sorts a messy photo/video archive into a year/season library.
 - **[Shootout](https://github.com/MikalaiKryvusha/shootout)** — a tactical, turn-based tabletop RPG about Mexican standoffs, with d100 probability mechanics.
 - 🎲 **Secret project** — a tabletop game inspired by Oblivion and D&D; in development, under wraps for now.
@@ -56,10 +62,16 @@
 ### 🏆 Проекты, которыми горжусь
 
 - **[KAIF](https://github.com/MikalaiKryvusha/KAIF)** — Krinik AI Framework: самораспаковывающаяся методология, превращающая любого ИИ-агента для кодинга в дисциплинированного, автономного, устойчивого к потере контекста напарника.
+- **[KUMM](https://github.com/MikalaiKryvusha/kumm)** — Krinik Universal Mod Manager: Nexus Mods из командной строки через Chrome DevTools Protocol; работает и на бесплатных аккаунтах.
+- **[KARTUN](https://github.com/MikalaiKryvusha/KARTUN)** — Krinik Android Restoration Tool for Upscaling with Neural Networks: делает маленькое или размытое фото большим и чётким прямо на Android-телефоне, без сети, — первый в мире трансформер DAT2 на ncnn, работающий на видеочипе телефона через Vulkan.
+- **[KUIPS](https://github.com/MikalaiKryvusha/KUIPS)** — Krinik User Interface Prototyping System: локальный лист в духе Figma, на котором ИИ-агенты раскладывают экраны приложения и связи между ними; CLI, API, MCP.
+- **[Krinik Tribit](https://github.com/MikalaiKryvusha/KrinikTribitApp)** — починенное приложение колонки Tribit: без вылетов, без геолокации, для планшетов и больших экранов, с нормальными переводами на многие языки.
+- **[KAST](https://github.com/MikalaiKryvusha/KAST)** — KRINIK Artemis Streaming Tool: форк Artemis (Moonlight для Android) под Apollo/Vibepollo, который переживает временный обрыв сети, а не роняет сессию.
+- **[KARMA](https://github.com/MikalaiKryvusha/KARMA)** — Krinik's KARMA: психологическая модель для игровых ИИ-агентов.
 - **[NDim Space](https://github.com/MikalaiKryvusha/ndim)** — честный подбор похожих людей по математической близости в многомерном пространстве самооценок.
 - **[KrinikCam](https://github.com/MikalaiKryvusha/KrinikCam)** — мобильная альтернатива OBS для мультистриминга на YouTube, Instagram и другие площадки: слои, несколько источников, встроенные и внешние камеры.
 - **[KLAS](https://github.com/MikalaiKryvusha/KLAS)** — Krinik Local Agent System: самохостящаяся ИИ-экосистема на локальных LLM и игровой видеокарте — автономные агенты и веб-дашборд.
-- **[KAGO](https://github.com/MikalaiKryvusha/KAGO)** — Криника Автоматизированный ГПУ Оркестратор: автоматический андервольтинг видеокарты NVIDIA под Windows — тише и холоднее, с измеренным запасом надёжности и без единого стороннего GUI.
+- **[KAGO](https://github.com/MikalaiKryvusha/KAGO)** — Криника Автоматизированный ГПУ Оркестратор: автоматический андервольтинг видеокарты NVIDIA под Windows — четыре проверенных режима на ярлыках: +9 % кадров на полной мощности или +2 % кадров на 50 Вт меньше, тише и холоднее; без сторонних GUI.
 - **[KPOT](https://github.com/MikalaiKryvusha/KPOT)** — Krinik Photo Organizer Tool: на входе хаос, на выходе хронология — бережный CLI, раскладывающий фотовидеоархив в библиотеку по годам и сезонам.
 - **[Перестрелка (Shootout)](https://github.com/MikalaiKryvusha/shootout)** — тактическая пошаговая настольная RPG про мексиканские дуэли с вероятностной механикой d100.
 - 🎲 **Секретный проект** — настольная игра по мотивам Oblivion и D&D; в разработке, пока держится в тайне.
